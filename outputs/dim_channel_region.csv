@@ -1,0 +1,31 @@
+channel_region_key,region,payment_method,channel_type
+1,Central,COD,Cash on Delivery
+2,Central,Credit Card,Digital / Card Payment
+3,Central,Debit Card,Digital / Card Payment
+4,Central,PayPal,Digital / Card Payment
+5,Central,UPI,Digital / Card Payment
+6,Central,Wallet,Digital / Card Payment
+7,East,COD,Cash on Delivery
+8,East,Credit Card,Digital / Card Payment
+9,East,Debit Card,Digital / Card Payment
+10,East,PayPal,Digital / Card Payment
+11,East,UPI,Digital / Card Payment
+12,East,Wallet,Digital / Card Payment
+13,North,COD,Cash on Delivery
+14,North,Credit Card,Digital / Card Payment
+15,North,Debit Card,Digital / Card Payment
+16,North,PayPal,Digital / Card Payment
+17,North,UPI,Digital / Card Payment
+18,North,Wallet,Digital / Card Payment
+19,South,COD,Cash on Delivery
+20,South,Credit Card,Digital / Card Payment
+21,South,Debit Card,Digital / Card Payment
+22,South,PayPal,Digital / Card Payment
+23,South,UPI,Digital / Card Payment
+24,South,Wallet,Digital / Card Payment
+25,West,COD,Cash on Delivery
+26,West,Credit Card,Digital / Card Payment
+27,West,Debit Card,Digital / Card Payment
+28,West,PayPal,Digital / Card Payment
+29,West,UPI,Digital / Card Payment
+30,West,Wallet,Digital / Card Payment
